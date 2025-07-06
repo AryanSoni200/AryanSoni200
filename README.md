@@ -28,8 +28,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,github,git,flutter,dart,jest,java,mysql,postgres" /><br>
-    <img src="https://skillicons.dev/icons?i=java,nodejs,javascript,express,firebase,mongodb,c,sqlite" /><br>
+    <img src="https://skillicons.dev/icons?i=html,css,github,git,flutter,dart,jest,mysql,postgres" /><br>
+    <img src="https://skillicons.dev/icons?i=java,nodejs,javascript,express,firebase,mongodb,c" /><br>
     <img src="https://skillicons.dev/icons?i=vscode,androidstudio,postman,photoshop,pr,ae" /><br>
 </div>
 

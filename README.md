@@ -23,42 +23,9 @@ Currently, I work with technologies such as **Node.js, React, Next.js, TypeScrip
 
 ## 🛠️ Tech Stack
 
-### Languages
-
 <p>
-  <img src="https://skillicons.dev/icons?i=ts,js,java,dart,python" />
+  <img src="https://skillicons.dev/icons?i=ts,js,java,dart,python,react,nextjs,html,css,tailwind,mui,nodejs,express,postgres,mongodb,prisma,flutter,androidstudio,firebase,git,github,docker,vscode,vercel" />
 </p>
-
-### Frontend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,mui" />
-</p>
-
-### Backend
-
-<p>
-  <img src="https://skillicons.dev/icons?i=nodejs,express" />
-</p>
-
-### Databases & ORM
-
-<p>
-  <img src="https://skillicons.dev/icons?i=postgres,mongodb,prisma" />
-</p>
-
-### Mobile Development
-
-<p>
-  <img src="https://skillicons.dev/icons?i=flutter,androidstudio,firebase" />
-</p>
-
-### Tools & Platforms
-
-<p>
-  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,vercel" />
-</p>
-
 
 ---
 

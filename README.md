@@ -1,44 +1,125 @@
-<!-- <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=aryansoni200.aryansoni200" /> -->
+# Hi, I'm Aryan Soni 👋
 
-<h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Aryan+Soni!;" />
-</h1>
+### Software Developer | Full-Stack Development | AI & Modern Web Technologies
 
-<h3 align="center">A Software Developer from India ᴵᴺ</h3>
+I'm a Software Developer passionate about building **scalable, reliable, and user-focused applications**. I enjoy working across the stack, designing clean architectures, developing APIs, and integrating AI-powered services into modern applications.
 
-<br/>
+Currently, I work with technologies such as **Node.js, React, Next.js, TypeScript, PostgreSQL, MongoDB, and AI APIs**.
 
-<div align="center">
-  <a href="mailto:aryansoniofficial25@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
-  </a>
-  <a href="https://linkedin.com/in/soni-aryan" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
-  </a>
-</div>
+---
 
-<hr>
-<h2 align="center">📊 GitHub Stats</h2>
+## 🚀 About Me
+
+* 💻 Software Developer focused on **full-stack web development**
+* ⚡ Experienced with **React, Next.js, Node.js, and Express**
+* 🗄️ Working with **PostgreSQL, MongoDB, Prisma, and Sequelize**
+* 🤖 Interested in **AI integrations and AI-powered applications**
+* 📱 Background in **Flutter, Android, Java, and Firebase**
+* 🏗️ Interested in **scalable systems, clean architecture, and performance optimization**
+* 🌱 Currently learning and improving my **backend development and system design** skills
+* 🎯 Always exploring new technologies and building practical projects
+
+---
+
+## 🛠️ Tech Stack
+
+### Languages
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,java,dart,python" />
+</p>
+
+### Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,mui" />
+</p>
+
+### Backend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+### Databases & ORM
+
+<p>
+  <img src="https://skillicons.dev/icons?i=postgres,mongodb,prisma" />
+</p>
+
+### Mobile Development
+
+<p>
+  <img src="https://skillicons.dev/icons?i=flutter,androidstudio,firebase" />
+</p>
+
+### Tools & Platforms
+
+<p>
+  <img src="https://skillicons.dev/icons?i=git,github,docker,vscode,vercel" />
+</p>
+
+
+---
+
+## 🔥 GitHub Streak
+
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=aryansoni200&theme=react&hide_border=true" />
 </p>
 
- <hr/>
- 
-<h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
-<br/>
-<div align="center">
-    <img src="https://skillicons.dev/icons?i=html,css,github,git,flutter,dart,java,jest,postgres,c,npm" /><br>
-    <img src="https://skillicons.dev/icons?i=nodejs,react,vite,nextjs,javascript,typescript,express,sequelize,prisma,tailwind" /><br>
-    <img src="https://skillicons.dev/icons?i=vscode,androidstudio,postman,firebase,mongodb,photoshop,pr,ae" /><br>
-</div>
+---
 
-<br/>
-<hr/>
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=aryansoni200&theme=react-dark&hide_border=false&area=true&border_radius=10" alt="GitHub Activity Graph" />
-</div>
+## 🌐 Connect With Me
 
-<br/><br/>
-<hr/>
+<p>
+  <a href="https://github.com/AryanSoni200">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+  </a>
+  <a href="https://www.linkedin.com/in/soni-aryan/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="https://x.com/adsoni499331">
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white" />
+  </a>
+  <a href="https://www.youtube.com/@aryansoni1588">
+    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" />
+  </a>
+</p>
 
-<br/>
+---
+
+## 💡 What I Like Building
+
+```text
+▸ Scalable Web Applications
+▸ REST APIs & Backend Systems
+▸ AI-powered Applications
+▸ Developer Tools
+▸ Business & Enterprise Applications
+▸ Mobile Applications
+▸ Database-driven Systems
+```
+
+---
+
+## 📈 Currently
+
+```text
+Learning       → Backend Architecture & System Design
+Building       → Full-Stack & AI Applications
+Exploring      → MongoDB, Prisma & Modern Backend Technologies
+Improving      → Performance, Scalability & Clean Architecture
+```
+
+---
+
+## ⚡ Fun Fact
+
+> I enjoy turning ideas into working products and continuously learning better ways to build software.
+
+---
+
+<p align="center">
+  <b>Thanks for visiting my profile! 🚀</b>
+</p>
